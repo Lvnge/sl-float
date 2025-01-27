@@ -1,6 +1,6 @@
 # sl-float - Personal Finance Tracker
 
-sl-float is a minimalistic and vibrant personal finance tracker designed to help users manage their income and expenses effortlessly. The app supports account creation, login functionality, and provides an intuitive interface for tracking finances with insightful summaries and charts.
+sl-float is a minimalistic and vibrant personal finance tracker designed to help users manage their income and expenses effortlessly. The app supports account creation, login functionality, and provides an intuitive interface for tracking finances.
 
 ---
 
