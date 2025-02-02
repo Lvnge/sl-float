@@ -4,6 +4,7 @@ import Register from "./pages/Register";
 import Dashboard from "./pages/Dashboard";
 import Categories from "./components/CategoriesPage";
 import AddCategory from "./components/AddCategory";
+
 import { useEffect, useState } from "react";
 import { auth } from "./services/firebaseConfig";
 import { onAuthStateChanged } from "firebase/auth";
